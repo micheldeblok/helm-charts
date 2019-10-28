@@ -1,5 +1,6 @@
 apiVersion: v1
 entries:
+<<<<<<< HEAD
   ae:
   - apiVersion: v1
     appVersion: 1.1.0
@@ -149,6 +150,12 @@ entries:
   - apiVersion: v1
     appVersion: 1.29.4
     created: 2020-06-01T17:13:28.808238+02:00
+=======
+  apim:
+  - apiVersion: v1
+    appVersion: 1.29.4
+    created: 2019-10-28T09:59:14.046282+01:00
+>>>>>>> Manage Helm charts repository
     description: Official Gravitee.io Helm chart for API Management
     digest: d8bfacdade4b44689b45c07e086883a36e7a3022b32c67ba5d39130afb9345e9
     home: https://gravitee.io
@@ -157,6 +164,12 @@ entries:
     sources:
     - https://github.com/gravitee-io
     urls:
+<<<<<<< HEAD
     - https://helm.gravitee.io/helm/apim/apim-1.27.1.tgz
     version: 1.27.1
 generated: 2020-06-01T17:13:28.774604+02:00
+=======
+    - https://helm.elastic.co/helm/apim/apim-1.27.1.tgz
+    version: 1.27.1
+generated: 2019-10-28T09:59:14.042251+01:00
+>>>>>>> Manage Helm charts repository
