@@ -13,4 +13,6 @@ target/
 
 *.tgz
 !helm/am/*.tgz
+!helm/am3/*.tgz
 !helm/apim/*.tgz
+!helm/apim3/*.tgz
